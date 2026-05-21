@@ -1,6 +1,7 @@
 #include "Menu.h"
 
 Menu::Menu(float width, float height) {
+    // hello
 
     if(!font.openFromFile("DUNGRG__.ttf")) {
         // handle error
